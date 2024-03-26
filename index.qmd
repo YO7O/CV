@@ -1,0 +1,9 @@
+---
+title: "Kenneth Chan"
+---
+
+Computer Science Enthusiast
+
+Driven by a passion for innovation and problem-solving, I am a dedicated computer science student with a keen interest in exploring the intersection of technology, creativity, and real-world impact. Currently pursuing my degree in Computer Science at University of Toronto, I am deeply immersed in coursework covering a wide array of topics, including algorithms, data structures, software engineering, and machine learning. Beyond the classroom, I actively engage in projects that challenge me to apply theoretical concepts to practical solutions, whether it's developing innovative software applications, participating in coding competitions, or contributing to open-source initiatives. With a strong foundation in programming languages such as Python, Java, and C++, I am constantly seeking opportunities to expand my skill set and stay abreast of emerging technologies. Committed to lifelong learning and collaboration, I am excited about the endless possibilities that the field of computer science offers and eager to make meaningful contributions to the ever-evolving tech landscape.
+
+<embed src="./cv.pdf" width="800px" height="1200px" />
